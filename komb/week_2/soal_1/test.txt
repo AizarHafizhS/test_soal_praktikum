@@ -1,2 +1,11 @@
-JohnDoe 15000000 20 200000 150000 Payslip for Employees\n---------------------\nName: John Doe\nGross Salary: Rp15000000\nTax (20%): Rp3000000\nInstallment: Rp200000\nInsurance: Rp150000\nNet Salary: Rp11750000
+JohnDoe 15000000 20 200000 150000 
+Payslip for Employees 
+---------------------
+Name: John Doe
+Gross Salary: Rp15000000
+Tax (20%): Rp3000000
+Installment: Rp200000
+Insurance: Rp150000
+Net Salary: Rp11750000
+
 JaneDoe 12000000 15 150000 120000 Payslip for Employees\n---------------------\nName: Jane Doe\nGross Salary: Rp12000000\nTax (15%): Rp1800000\nInstallment: Rp150000\nInsurance: Rp120000\nNet Salary: Rp9950000

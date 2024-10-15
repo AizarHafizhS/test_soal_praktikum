@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/user.LAPTOP-7AA5SI57/Kuliah/Asisten Praktikum/test_soal/komb/week_2/soal_1",
-      "program": "c:/Users/user.LAPTOP-7AA5SI57/Kuliah/Asisten Praktikum/test_soal/komb/week_2/soal_1/build/Debug/outDebug",
+      "cwd": "c:/Users/user.LAPTOP-7AA5SI57/Kuliah/Asisten Praktikum/test_soal/komb/week_4/soal_1",
+      "program": "c:/Users/user.LAPTOP-7AA5SI57/Kuliah/Asisten Praktikum/test_soal/komb/week_4/soal_1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
